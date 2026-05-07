@@ -1,6 +1,6 @@
 import React from "react";
 
-import Jassi from "../assets/images/team/founder_img.jpg";
+import Jassi from "../assets/images/Team/founder_img.jpg";
 import Shardha_suman from "../assets/images/Team/shradha_suman_psychologists.jpg";
 import vijendra from "../assets/images/Team/vijendra.jpg";
 import Love_kumar from "../assets/images/Team/love_kumar.jpg";
