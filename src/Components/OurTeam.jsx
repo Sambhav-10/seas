@@ -1,14 +1,14 @@
 import React from "react";
 
-import Jassi from "../assets/images/Team/founder_img.jpg";
-import Shardha_suman from "../assets/images/Team/shradha_suman_psychologists.jpg";
-import vijendra from "../assets/images/Team/vijendra.jpg";
-import Love_kumar from "../assets/images/Team/love_kumar.jpg";
-import Garima from "../assets/images/Team/garimajain.jpg";
-import Sanjana from "../assets/images/Team/sanjana.jpg";
-import Hemant from "../assets/images/Team/hemant.jpg";
-import Nishant from "../assets/images/Team/nishant.jpg";
-import Prasant from "../assets/images/Team/prasant.jpg";
+import Jassi from "../assets/images/TeamTamp/founder_img.jpg";
+import Shardha_suman from "../assets/images/TeamTamp/shradha_suman_psychologists.jpg";
+import vijendra from "../assets/images/TeamTamp/vijendra.jpg";
+import Love_kumar from "../assets/images/TeamTamp/love_kumar.jpg";
+import Garima from "../assets/images/TeamTamp/garimajain.jpg";
+import Sanjana from "../assets/images/TeamTamp/sanjana.jpg";
+import Hemant from "../assets/images/TeamTamp/hemant.jpg";
+import Nishant from "../assets/images/TeamTamp/nishant.jpg";
+import Prasant from "../assets/images/TeamTamp/prasant.jpg";
 import { Link } from "react-router-dom";
 
 const teamMembers = [
