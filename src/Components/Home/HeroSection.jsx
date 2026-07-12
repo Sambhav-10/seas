@@ -31,7 +31,9 @@ const HeroSection = () => {
             
             {/* Donate Button */}
             <button className="px-8 py-3 bg-yellow-500 hover:bg-yellow-600 text-black font-semibold rounded-full shadow-lg transition duration-300">
-              Donate Now
+              <Link to="/donation" className="hover:text-sky-600">
+                Donate Now
+              </Link>
             </button>
 
             {/* Join Button */}
