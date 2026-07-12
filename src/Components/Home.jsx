@@ -51,12 +51,12 @@ const Home = () => {
             Your support helps us continue serving humanity.
           </p>
 
-          <a
-            href="#donate"
+          <Link
+            to={"donation"}
             className="inline-block bg-red-600 px-6 md:px-10 py-3 md:py-4 rounded-full text-sm md:text-lg font-bold hover:bg-red-700 transition"
           >
             Donate Now
-          </a>
+          </Link>
         </section>
       </div>
     </>
